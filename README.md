@@ -19,7 +19,7 @@
 <p>Refer to the provided code examples and notebooks for loading and utilizing the dataset in your deep learning projects.</p>
 
 <h2>License</h2>
-<p>This dataset is available under [insert license here]. Please review the license before using the dataset for your projects.</p>
+<p>This dataset is available under MIT License. Please review the license before using the dataset for your projects.</p>
 
 <h2>Contact</h2>
 <p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd.</p>
