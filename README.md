@@ -16,7 +16,7 @@
 <p>Explore the MosquitoFusion dataset on Kaggle: <a href="https://www.kaggle.com/datasets/faiyazabdullah/moshav3" target="_blank">MosquitoFusion</a></p>
 
 <h2>Code</h2>
-<p>Here is a notebook called 'MosquitoFusion_YOLOv8' is used to train the model 'YOLO8s'.</p>
+<p>Here is a notebook called 'MosquitoFusion_YOLOv8' is used to train the model 'YOLOv8s' for mosquito detection with the MosquitoFusion .</p>
 
 <h2>License</h2>
 <p>This dataset is available under MIT License. Please review the license before using the dataset for your projects.</p>
