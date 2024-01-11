@@ -1,4 +1,4 @@
-# MosquitoFusion: A Multiclass Dataset for Detection of Mosquitoes, Swarms, and Breeding Sites
+# MosquitoFusion: A Multiclass Dataset for Detection of Mosquitoes, Swarms, and Breeding Sites using Deep Learning
 
 <!DOCTYPE html>
 <html lang="en">
