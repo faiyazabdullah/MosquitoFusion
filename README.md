@@ -19,7 +19,7 @@
 <p>Here is a notebook called 'MosquitoFusion_YOLOv8.ipynb' is used to train the model 'YOLOv8s' for mosquito detection with the MosquitoFusion .</p>
 
 <h2>License</h2>
-<p>This dataset is available under MIT License. Please review the license before using the dataset for your projects.</p>
+<p>This dataset is available under MIT License. Please review the <a href=LICENSE>license</a> before using the dataset for your projects.</p>
 
 <h2>Contact</h2>
 <p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd.</p>
