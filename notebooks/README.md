@@ -20,7 +20,5 @@
   !yolo task=detect mode=predict model=runs/detect/train2/weights/best.pt conf=0.25 source=data/test/images save=True
   <h2>Contributing</h2>
   <p>Feel free to contribute to this project by opening issues or submitting pull requests.</p>
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
