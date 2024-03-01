@@ -21,6 +21,18 @@
 <h2>License</h2>
 <p>This dataset is available under <a href="LICENSE">LICENSE</a>. Please review the license before using the dataset for your projects.</p>
 
+<h2>Cite</h2>
+<p>If you use MosquitoFusion dataset for your research, please cite it as follows:</p>
+<pre>
+@misc{
+    anonymous2024mosquitofusion,
+    title={MosquitoFusion: A Multiclass Dataset for Real-Time Detection of Mosquitoes, Swarms, and Breeding Sites Using Deep Learning},
+    author={Anonymous},
+    year={2024},
+    url={https://openreview.net/forum?id=3s4hFx8pYs}
+}
+</pre>
+
 <h2>Contact</h2>
 <p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd.</p>
 
