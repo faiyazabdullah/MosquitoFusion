@@ -24,12 +24,13 @@
 <h2>Cite</h2>
 <p>If you use MosquitoFusion dataset for your research, please cite it as follows:</p>
 <pre>
-@misc{
-    anonymous2024mosquitofusion,
-    title={MosquitoFusion: A Multiclass Dataset for Real-Time Detection of Mosquitoes, Swarms, and Breeding Sites Using Deep Learning},
-    author={Anonymous},
-    year={2024},
-    url={https://openreview.net/forum?id=3s4hFx8pYs}
+@inproceedings{
+sayeedi2024mosquitofusion,
+title={MosquitoFusion: A Multiclass Dataset for Real-Time Detection of Mosquitoes, Swarms, and Breeding Sites Using Deep Learning},
+author={Md. Faiyaz Abdullah Sayeedi and Fahim Hafiz and Md Ashiqur Rahman},
+booktitle={The Second Tiny Papers Track at ICLR 2024},
+year={2024},
+url={https://openreview.net/forum?id=3s4hFx8pYs}
 }
 </pre>
 
