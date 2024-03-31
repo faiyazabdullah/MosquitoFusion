@@ -35,7 +35,7 @@ url={https://openreview.net/forum?id=3s4hFx8pYs}
 </pre>
 
 <h2>Contact</h2>
-<p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd.</p>
+<p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd</p>
 
 </body>
 </html>
