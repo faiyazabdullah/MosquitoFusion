@@ -18,7 +18,7 @@ Paper - https://arxiv.org/abs/2404.01501
 ![Dataset Overview](results/val/val/val_batch1_pred.jpg)
 
 <h2>Access the Dataset</h2>
-<p>Explore the MosquitoFusion dataset on Kaggle: <a href="https://kaggle.com/datasets/7bf08a7472f60b606c17c4a5c14e8cbe7ffc471c6b23d93c9c1992416f3a5226" target="_blank">MosquitoFusion</a></p>
+<p>Explore the MosquitoFusion dataset on Kaggle: <a href="https://www.kaggle.com/datasets/faiyazabdullah/mosquitofusion-dataset" target="_blank">MosquitoFusion</a></p>
 
 <h2>Code</h2>
 <p>Here is a notebook called 'MosquitoFusion_YOLOv8.ipynb' is used to train the model 'YOLOv8s' for mosquito detection with the MosquitoFusion .</p>
